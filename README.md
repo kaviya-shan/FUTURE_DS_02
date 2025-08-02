@@ -31,3 +31,7 @@ Among the interests, Interest 2 is the most effective with 135M engagements, whi
 The 30–34 age group generates the highest approved conversions, indicating a clear target audience for future campaigns.
 While spending correlates with clicks, cost efficiency decreases after high click volumes, suggesting a need for ad spend optimization.
 Overall, the campaign successfully drives awareness but needs better targeting and creative optimization to convert high impressions into meaningful engagement and conversions.
+
+##Dataset used-https ://github.com/kaviya-shan/FUTURE_DS_02/blob/main/data.csv
+##Dashboard screenshot- https://github.com/kaviya-shan/FUTURE_DS_02/blob/main/Screenshot%202025-08-03%20003832.png
+
