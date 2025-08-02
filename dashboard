@@ -1,0 +1,36 @@
+Social Media Campaign Performance Tracker
+
+This project is a Power BI dashboard to track and analyze the performance of social media campaigns.  
+It provides insights into conversations, impressions, spend, and conversions across different audience segments.
+
+📊 Key Performance Indicators (KPIs)
+1. Total Conversation** – 2K
+2. Interest 1 Engagement** – 44M
+3. Interest 2 Engagement** – 135M
+4. Interest 3 Engagement** – 49K
+5. Total Impressions** – 89786M
+6. Sum of Impressions by Clicks** – Line chart visualization
+7. Spent by Clicks** – Line chart visualization
+8. Sum of Approved Conversion by Age** – Bar chart visualization
+
+🛠 Tools Used
+Power BI Desktop – Dashboard creation and data visualization  
+Excel/CSV** – Data source for campaign metrics  
+DAX– Calculated columns and measures  
+  
+📊Actionable Insights
+Prioritize Interest 2 – It has the highest engagement and potential ROI.
+Reduce Spend on Interest 3 – Very low engagement compared to others.
+Optimize Click Strategy – Identify the sweet spot for clicks vs. cost to maximize efficiency.
+Focus on 30–34 Age Segment – Most conversions come from this group.
+Investigate High Impressions 
+
+⌛Conclusion:
+The social media campaign has achieved extremely high reach with 89,786M total impressions, but conversions remain low (2K total conversations).
+Among the interests, Interest 2 is the most effective with 135M engagements, while Interest 3 shows minimal impact.
+The 30–34 age group generates the highest approved conversions, indicating a clear target audience for future campaigns.
+While spending correlates with clicks, cost efficiency decreases after high click volumes, suggesting a need for ad spend optimization.
+Overall, the campaign successfully drives awareness but needs better targeting and creative optimization to convert high impressions into meaningful engagement and conversions.
+
+
+
